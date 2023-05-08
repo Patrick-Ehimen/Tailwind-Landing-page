@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Patrick-Ehimen/Tailwind-Landing-page/issues"
   },
-  "homepage": "https://github.com/Patrick-Ehimen/Tailwind-Landing-page#readme"
+  "homepage": "https://github.com/Patrick-Ehimen/Tailwind-Landing-page#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
 }
